@@ -1,9 +1,20 @@
 # Foro Hub - Challenge - Back End
-Un `foro` es un espacio donde todos los participantes de una plataforma pueden plantear sus preguntas sobre determinados tópicos.
 
+![Static Badge](https://img.shields.io/badge/Alura%20Latam-4479A1?style=plastic)
+![Static Badge](https://img.shields.io/badge/Back%20End-000000?style=plastic)
+![Static Badge](https://img.shields.io/badge/Java-721412?style=plastic&logo=openjdk&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Repository-blue?style=plastic&label=MVN&labelColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=spring%20boot&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=plastic&logo=spring%20security&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=plastic&logo=json%20web%20tokens&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white&labelColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
 
 ## Feature
-Crearemos una API REST usando Spring. Nuestra API se centrará específicamente en los tópicos, y debe permitir a los usuarios:
+`Descripción`: Un foro es un espacio donde todos los participantes de una plataforma pueden plantear sus preguntas sobre determinados tópicos.
+
+`Objetivo`: Crearemos una API REST usando Spring. Nuestra API se centrará específicamente en los tópicos, y debe permitir a los usuarios:
 #### Crear un nuevo tópico.
 ```http
   POST /topicos
@@ -45,11 +56,6 @@ Crearemos una API REST usando Spring. Nuestra API se centrará específicamente 
 
 **IDE:** IntelliJ IDEA (opcional).
 
-
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
- 
 
 
 ## Dependence
