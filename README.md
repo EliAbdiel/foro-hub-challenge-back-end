@@ -1,5 +1,5 @@
 # Foro Hub - Challenge - Back End
-Un `foro` es un espacio donde todos los participantes de una plataforma pueden plantear sus preguntas sobre determinados `tópicos`.
+Un `foro` es un espacio donde todos los participantes de una plataforma pueden plantear sus preguntas sobre determinados tópicos.
 
 
 ## Feature
@@ -245,3 +245,27 @@ public class SecurityConfigurations {
 ```
 
 Realizar un code review detallado siguiendo estos pasos ayudará a garantizar que el API REST con Spring sea robusto, eficiente y mantenible.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/EliAbdiel/foro-hub-challenge-back-end.git
+```
+
+Go to the project directory
+
+```bash
+  cd forohub
+```
+
+
+## Authors
+
+- [@Elí Abdiel Chan López](https://www.github.com/EliAbdiel)
+
+
+## License
+
+Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/)
