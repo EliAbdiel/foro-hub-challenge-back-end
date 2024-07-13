@@ -43,7 +43,11 @@ Crearemos una API REST usando Spring. Nuestra API se centrará específicamente 
 
 **MySQL:** versión 8 en adelante.
 
-**IDE:** IntelliJ IDEA (opcional). 
+**IDE:** IntelliJ IDEA (opcional).
+
+
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
  
 
